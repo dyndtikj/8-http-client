@@ -1,3 +1,5 @@
+// Copyright 2021 <geraldy12319@gamil.com>
+
 #include "client.hpp"
 
 const char suggestions_str[] = "suggestions";

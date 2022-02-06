@@ -1,6 +1,4 @@
-//
-// Created by maks on 31.01.2022.
-//
+// Copyright 2021 <geraldy12319@gamil.com>
 
 #ifndef LAB_08_HTTP_CLIENT_CLIENT_HPP
 #define LAB_08_HTTP_CLIENT_CLIENT_HPP
